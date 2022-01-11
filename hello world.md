@@ -1,10 +1,12 @@
-hello world
+# first file for the version control 
 
- let's start with version control
+## highlightning text
 
  *italics.*
 
  **bold**
+
+## lists
 
  * element 1
 
@@ -17,4 +19,3 @@ hello world
  2. 2 num element
 
  3. 3 num element
- 
