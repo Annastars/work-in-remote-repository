@@ -35,3 +35,13 @@ git init
 git config --global user.name
 
 git config --global user.email
+
+## добавление фйлов в репозиторий
+
+git add file_name
+
+добавляет file_name  для отслеживания
+
+git commit -m "comment"
+
+фиксирует все команды, которые были добавлены для отслеживания
