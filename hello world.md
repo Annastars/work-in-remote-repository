@@ -69,3 +69,4 @@ git checkout commit_code
 git checkout master
 
 вернуться к актуальному состоянию
+![error](funny.jpg)
