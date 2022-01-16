@@ -59,3 +59,13 @@ git log
 git diff
 
 показывает разницу между текущей версией и зафиксированной 
+
+## переход между commit
+
+git checkout commit_code
+
+переходит к commit с кодом commit_code(его можно подсмтреть по git log)
+
+git checkout master
+
+вернуться к актуальному состоянию
