@@ -29,3 +29,9 @@
 git init
 
 * создает локальный репозиторий
+
+если не ввели имя пользователя, то
+
+git config --global user.name
+
+git config --global user.email
