@@ -1,4 +1,4 @@
-# first file for the version control 
+# first heading for the version control 
 
 ## highlightning text
 
@@ -19,3 +19,6 @@
  2. 2 num element
 
  3. 3 num element
+
+# Инструкция по работе с GIT
+
