@@ -87,7 +87,9 @@ git checkout master
 
 ## merging branches and resolving conflicts
 
-* to download information from the branch_name branch to the current branch 
+* to download information from the branch_name branch to the current branch
 
 **git merge branch_name**
+
+* to solve the merge conflict, you need to remove the extra lines and edit the text.
 
