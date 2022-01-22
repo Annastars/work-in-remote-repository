@@ -90,3 +90,4 @@ git checkout master
 * to download information from the branch_name branch to the current branch 
 
 **git merge branch_name**
+
