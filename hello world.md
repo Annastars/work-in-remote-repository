@@ -54,6 +54,10 @@ git status
 
 git log
 
+для визуализации веток, добавляйте тег:
+
+git log --graph
+
 показвает все commit 
 
 git diff
@@ -94,3 +98,4 @@ git checkout master
 * to solve the merge conflict, you need to remove the extra lines and edit the text.
 
 **delete**
+
