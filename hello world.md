@@ -100,3 +100,11 @@ git checkout master
 * to call help for a command, you need to add the tag:
 
 **--help**
+
+examples:
+
+git add --help
+
+git commit --help
+
+git branch --help
