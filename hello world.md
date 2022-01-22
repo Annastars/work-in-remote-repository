@@ -93,3 +93,4 @@ git checkout master
 
 * to solve the merge conflict, you need to remove the extra lines and edit the text.
 
+**delete**
