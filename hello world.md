@@ -70,3 +70,18 @@ git checkout master
 
 вернуться к актуальному состоянию
 ![error](funny.jpg)
+
+## branch info
+
+* to see all branches 
+
+**git branch**
+
+* to make a new 
+
+**git branch branch_name**
+
+* to change the branch 
+
+**git checkout branch_name**
+
