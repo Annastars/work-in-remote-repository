@@ -22,6 +22,8 @@
 
 # Инструкция по работе с GIT
 
+![error](funny.jpg)
+
 чаще делать git status
 
 ## начало работы в репозитории
@@ -73,7 +75,6 @@ git checkout commit_code
 git checkout master
 
 вернуться к актуальному состоянию
-![error](funny.jpg)
 
 ## branch info
 
