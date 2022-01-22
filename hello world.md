@@ -85,3 +85,8 @@ git checkout master
 
 **git checkout branch_name**
 
+## merging branches and resolving conflicts
+
+* to download information from the branch_name branch to the current branch 
+
+**git merge branch_name**
