@@ -94,3 +94,9 @@ git checkout master
 * to solve the merge conflict, you need to remove the extra lines and edit the text.
 
 **delete**
+
+## help
+
+* to call help for a command, you need to add the tag:
+
+**--help**
