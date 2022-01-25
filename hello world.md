@@ -114,3 +114,14 @@ git branch --help
 
 ## work in the remote repository (Github)
 
+1. create an account in **GITHUB.COM**
+
+2. make a new repository
+
+3. make a connection between local and remote repository
+
+4. send (**PUSH**) information from the local to remote repository
+
+5. edit file from another computer
+
+6. download (**PULL**) the current state from the remote repository
