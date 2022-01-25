@@ -116,9 +116,19 @@ git branch --help
 
 1. create an account in **GITHUB.COM**
 
+* you can use any name you want
+
 2. make a new repository
 
+* give it a name 
+
 3. make a connection between local and remote repository
+
+* git remote add origin (link)
+
+* git branch -M main
+
+* git push -u origin main
 
 4. send (**PUSH**) information from the local to remote repository
 
