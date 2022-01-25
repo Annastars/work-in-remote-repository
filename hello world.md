@@ -22,13 +22,7 @@
 
 # Инструкция по работе с GIT
 
-<<<<<<< HEAD
 ![error](funny.jpg)
-
-чаще делать git status
-=======
-чаще делать **git status**
->>>>>>> b1
 
 ## начало работы в репозитории
 
@@ -104,8 +98,6 @@ git log --graph
 
 **delete**
 
-<<<<<<< HEAD
-=======
 ## help
 
 * to call help for a command, you need to add the tag:
@@ -119,4 +111,6 @@ git add --help
 git commit --help
 
 git branch --help
->>>>>>> b1
+
+## work in the remote repository (Github)
+
