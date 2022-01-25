@@ -139,3 +139,7 @@ git branch --help
 7. to start working in file from the remote repository
 
 * **git clone (the link)**
+
+8. **git remote**
+
+9. cd
