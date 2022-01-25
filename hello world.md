@@ -135,3 +135,7 @@ git branch --help
 5. edit file from another computer
 
 6. download (**PULL**) the current state from the remote repository
+
+7. to start working in file from the remote repository
+
+* **git clone (the link)**
